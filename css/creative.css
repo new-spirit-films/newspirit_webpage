@@ -10646,19 +10646,19 @@ hr.light {
   #mainNav.navbar-scrolled {
     -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: #000000;
   }
   #mainNav.navbar-scrolled .navbar-brand {
-    color: #212529;
+    color: #ffffff;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f4623a;
+    color: #ffffff;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: #212529;
+    color: #ffffff;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #ffffff;
   }
 }
 
