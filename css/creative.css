@@ -6200,9 +6200,9 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #fff;
+  background-color: transparent;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  color: #fff;
   border-radius: 0.3rem;
   outline: 0;
 }
@@ -10718,7 +10718,7 @@ header.masthead h1 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: #f4623a;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -10822,8 +10822,8 @@ header.masthead h1 {
   position: absolute;
   top: 25px;
   right: 25px;
-  width: 45px;
-  height: 45px;
+  width: 75px;
+  height: 75px;
   cursor: pointer;
   background-color: transparent;
 }
@@ -10841,7 +10841,7 @@ header.masthead h1 {
   /* IE 9 */
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #212529;
+  background-color: #FFFFFF;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -10852,5 +10852,5 @@ header.masthead h1 {
   /* IE 9 */
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color: #212529;
+  background-color: #FFFFFF;
 }
